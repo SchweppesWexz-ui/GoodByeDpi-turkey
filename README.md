@@ -1,3 +1,22 @@
+# Hizmet Kurarak Kullanma (Windows başlatılırken otomatik olarak çalıştırılır)
+GoodbyeDPI Türkiye versiyonunu hizmet kurarak kullanmak için:
+
+# goodbyedpi-0.2.3rc3-turkey.zip dosyasını bilgisayarınıza indirin.
+# ZIP dosyasını herhangi bir dizine çıkarın.
+# Çıkartılan dosyalardan service_install_dnsredir_turkey.cmd dosyasına sağ tıklayarak Yönetici Olarak Çalıştır seçeneğini seçin.
+# Açılan konsol penceresinde herhangi bir tuşuna basın.
+# Pencere, hizmet kurulduğunda otomatik olarak kapanacak ve hizmet de otomatik olarak başlayacaktır.
+### Note
+
+# Bu işlem bilgisayarınıza GoodbyeDPI hizmetini kuracaktır. GoodbyeDPI hizmetini bilgisayarınızdan kaldırmak için çıkarttığınız dosyalar içerisindeki service_remove.cmd dosyasını yönetici olarak çalıştırmanız gerekmektedir.
+
+
+
+
+
+
+
+
 SplitWire-Turkey Hakkında Önemli Not (29.07.2025)
 Important
 
